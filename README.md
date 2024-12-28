@@ -29,20 +29,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehadas2005&show_icons=true&locale=en&layout=compact" height="220" alt="snehadas2005"  />
-</div>
-
-###
-###
-
-<h5 align="left">🔥   My Stats :</h3>
+&nbsp;![](https://komarev.com/ghpvc/?username=Snehadas2005&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehadas2005&show_icons=true&locale=en" alt="Snehadas2005" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
