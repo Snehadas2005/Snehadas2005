@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha Das</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
+- 🧩 Believe that a girl coder can change the world too. Passionate about finding the answers to each **WHY?** and **HOW?**  
+
 - 🔭 I’m currently working on [Tower of Hanoi Puzzle](https://github.com/aishseojudin/Tower-of-Hanoi-Puzzle)
 
 - 🌱 I’m currently learning **DSA in Java and JavaScript**
