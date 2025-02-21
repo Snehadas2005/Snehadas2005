@@ -3,7 +3,7 @@
 
 - 🧩 Believe that a girl coder can change the world too. Passionate about finding the answers to each **WHY?** and **HOW?**  
 
-- 🔭 I’m currently working on [Tower of Hanoi Puzzle](https://github.com/aishseojudin/Tower-of-Hanoi-Puzzle)
+- 🔭 I’m currently working on [Tower of Hanoi Puzzle](https://github.com/aishseojudin/PRO-TECT-TOR)
 
 - 🌱 I’m currently learning **DSA in Java and JavaScript**
 
