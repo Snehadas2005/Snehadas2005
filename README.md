@@ -3,7 +3,7 @@
 
 - 🧩 Believe that a girl coder can change the world too. Passionate about finding the answers to each **WHY?** and **HOW?**  
 
-- 🔭 I’m currently working on [Gestura](https://github.com/Snehadas2005/Gestura)
+- 🔭 I’m currently working as a Pinnacle Labs intern. 
 
 - 🌱 I’m currently learning **DSA in Java and JavaScript**
 
