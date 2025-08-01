@@ -5,7 +5,7 @@
 
 - 🔭 I’m actively looking for an internship experience. 
 
-- 🌱 I’m currently learning **DSA in Java and React**
+- 🌱 I’m currently learning **DSA in Java and Node**
 
 - 💬 Ask me about **Java**
 
