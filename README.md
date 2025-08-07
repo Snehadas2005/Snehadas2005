@@ -3,7 +3,7 @@
 
 - 🧩 Believe that a girl coder can change the world too. Passionate about finding the answers to each **WHY?** and **HOW?**  
 
-- 🔭 I’m actively looking for an internship experience. 
+- 🔭 I’m working as a GSSoC'25 Contributor. 
 
 - 🌱 I’m currently learning **DSA in Java and Node**
 
