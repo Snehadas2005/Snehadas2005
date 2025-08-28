@@ -42,3 +42,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /></a>
 </div>
 
+https://gssoc.girlscript.tech/leaderboard?year=<2025>&username=<Snehadas2005>
+
+###
+
