@@ -29,6 +29,8 @@
 
 ###
 
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/<Snehadas2005>?year=<2025>)
+
 &nbsp;![](https://komarev.com/ghpvc/?username=Snehadas2005&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehadas2005&show_icons=true&locale=en" alt="Snehadas2005" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
