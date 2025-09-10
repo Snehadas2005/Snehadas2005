@@ -1,48 +1,130 @@
-<h1 align="center">Hi 👋, I'm Sneha Das</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+# Sneha Das
 
-- 🧩 Believe that a girl coder can change the world too. Passionate about finding the answers to each **WHY?** and **HOW?**  
+<div align="center">
+  
+```ascii
+   ╭─────────────────────────────────────────╮
+   │  🌸 Frontend Developer • Dream Chaser  │
+   │     Turning ideas into digital magic    │
+   ╰─────────────────────────────────────────╯
+```
 
-- 🔭 I’m working as a GSSoC'25 Contributor. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Welcome%20to%20my%20Universe&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-- 🌱 I’m currently learning **DSA in Java and Node**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **sn2005eha26das@gmail.com**
-
-- ⚡ Fun fact **I am great at dancing and have a passion towards photography**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sneha_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sneha_2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sneha-das-61302227a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-das-61302227a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sn200sd12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sn200sd12" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flet.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/102273996?s=200&v=4" alt="flet" width="40" height="40"/> </a> <a> <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUyPLMCrdBvL7byu5KkMnOssbQigrkiRxZw&s" alt="three" width="40" height="40"/> </a> <a> <a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s" alt="three" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2023/10/React-Logo.png" alt="react" width="40" height="40"/></a></p>
-
-###
-
-<h4 align="left"> 🎯  My Top Skills :</h3>
-
-###
-
-&nbsp;![](https://komarev.com/ghpvc/?username=Snehadas2005&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehadas2005&show_icons=true&locale=en" alt="Snehadas2005" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
-
-###
-
-<b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="180px" height="180px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="180px" height="180px" /></a>
 </div>
 
+## 🎭 About Me
 
+<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-###
+```typescript
+const sneha = {
+    pronouns: "she" | "her",
+    location: "India 🇮🇳",
+    role: "Frontend Developer",
+    passion: ["Code", "Dance", "Photography"],
+    learning: ["DSA in Java", "Node.js"],
+    belief: "Girls can code & change the world! 🌍",
+    motto: "Finding answers to every WHY? and HOW?"
+};
+```
 
+<br clear="right"/>
+
+## 🚀 Current Journey
+
+<div align="center">
+
+| 🎯 **Focus** | 📚 **Learning** | 🏆 **Contributing** |
+|:---:|:---:|:---:|
+| Frontend Development | DSA + Java | GSSoC'25 |
+| UI/UX Design | Node.js | Open Source |
+
+</div>
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 💎 Core Technologies
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,react&theme=dark" alt="Core Tech" />
+
+### 🛠️ Tools & Frameworks  
+<img src="https://skillicons.dev/icons?i=tailwind,threejs,mysql,android,flet&theme=dark" alt="Tools" />
+
+### 📊 Development Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Environment" />
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snehadas2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&custom_title=Sneha's%20GitHub%20Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Snehadas2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 Achievements & Badges
+
+<div align="center">
+
+### GSSoC'24 Journey
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
+
+### Activity & Contributions
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehadas2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" width="100%"/>
+
+</div>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  
+```diff
++ 🤝 Open for collaborations and interesting projects
++ 💡 Ask me about Java, Frontend Development, or Dancing!  
++ 📧 Reach out: sn2005eha26das@gmail.com
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-das-61302227a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sn200sd12)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sneha_2004)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sn2005eha26das@gmail.com)
+
+</div>
+
+## 💫 Fun Zone
+
+<div align="center">
+
+| 🎨 **Creative Side** | 📸 **Passion** | 🎯 **Goal** |
+|:---:|:---:|:---:|
+| Dancing Enthusiast | Photography Lover | Change the World through Code |
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+**✨ Thanks for visiting! Let's build something amazing together! ✨**
+
+<img src="https://komarev.com/ghpvc/?username=Snehadas2005&color=F85D7F&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
