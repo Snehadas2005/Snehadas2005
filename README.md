@@ -4,7 +4,7 @@
   
 ```ascii
    ╭─────────────────────────────────────────╮
-   │  🌸 Web Developer • Dream Chaser  │
+   │  🌸 Website Developer • Dream Chaser   |
    │     Turning ideas into digital magic    │
    ╰─────────────────────────────────────────╯
 ```
@@ -50,10 +50,10 @@ const sneha = {
 <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,react&theme=dark" alt="Core Tech" />
 
 ### 🛠️ Tools & Frameworks  
-<img src="https://skillicons.dev/icons?i=tailwind,threejs,mysql,android,flet&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=tailwind,threejs,mysql,android&theme=dark" alt="Tools" />
 
 ### 📊 Development Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Environment" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Environment" />
 
 </div>
 
