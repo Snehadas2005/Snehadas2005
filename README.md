@@ -4,7 +4,7 @@
   
 ```ascii
    ╭─────────────────────────────────────────╮
-   │  🌸 Frontend Developer • Dream Chaser  │
+   │  🌸 Web Developer • Dream Chaser  │
    │     Turning ideas into digital magic    │
    ╰─────────────────────────────────────────╯
 ```
@@ -37,7 +37,7 @@ const sneha = {
 
 | 🎯 **Focus** | 📚 **Learning** | 🏆 **Contributing** |
 |:---:|:---:|:---:|
-| Frontend Development | DSA + Java | GSSoC'25 |
+| AI/ML Development | DSA + Java | GSSoC'25 |
 | UI/UX Design | Node.js | Open Source |
 
 </div>
