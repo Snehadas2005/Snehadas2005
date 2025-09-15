@@ -25,7 +25,8 @@ const sneha = {
     passion: ["Code", "Dance", "Photography"],
     learning: ["DSA in Java", "Node.js"],
     belief: "Girls can code & change the world! 🌍",
-    motto: "Finding answers to every WHY? and HOW?"
+    motto: "Finding answers to every WHY? and HOW?",
+    portfolio: https://sneha-das-portfolio.vercel.app/
 };
 ```
 
