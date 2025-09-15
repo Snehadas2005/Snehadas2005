@@ -26,7 +26,7 @@ const sneha = {
     learning: ["DSA in Java", "Node.js"],
     belief: "Girls can code & change the world! 🌍",
     motto: "Finding answers to every WHY? and HOW?",
-    portfolio: https://sneha-das-portfolio.vercel.app/
+    portfolio: 'https://sneha-das-portfolio.vercel.app/'
 };
 ```
 
