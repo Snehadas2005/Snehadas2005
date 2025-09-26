@@ -107,6 +107,13 @@ const sneha = {
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn" width="100%"/>
 
+## 💅 GitHub Stats 
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehadas2005&theme=radical&hide_border=true&include_all_commits=false&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehadas2005&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
 **✨ Thanks for visiting! Let's build something amazing together! ✨**
 
 <img src="https://komarev.com/ghpvc/?username=Snehadas2005&color=F85D7F&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
