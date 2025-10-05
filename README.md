@@ -103,12 +103,6 @@ const sneha = {
 
 ---
 
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn" width="100%"/>
-
----
-
 ## 💅 GitHub Stats 
 <div align="center">
 
@@ -123,3 +117,10 @@ const sneha = {
 <img src="https://komarev.com/ghpvc/?username=Snehadas2005&color=F85D7F&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
+
+---
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn" width="100%"/>
+
