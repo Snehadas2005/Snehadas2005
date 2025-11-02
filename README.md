@@ -4,7 +4,7 @@
   
 ```ascii
    ╭─────────────────────────────────────────╮
-   │  🌸 Website Developer • Dream Chaser   |
+   │  🌸  Developer • Dream Chaser           | 
    │     Turning ideas into digital magic    │
    ╰─────────────────────────────────────────╯
 ```
@@ -21,9 +21,9 @@
 const sneha = {
     pronouns: "she" | "her",
     location: "India 🇮🇳",
-    role: "Frontend Developer",
+    role: "AI/ML and Web Developer",
     passion: ["Code", "Dance", "Photography"],
-    learning: ["DSA in Java", "Node.js"],
+    learning: ["DSA in Java", "GoLang"],
     belief: "Girls can code & change the world! 🌍",
     motto: "Finding answers to every WHY? and HOW?"
 };
@@ -38,7 +38,7 @@ const sneha = {
 | 🎯 **Focus** | 📚 **Learning** | 🏆 **Contributing** |
 |:---:|:---:|:---:|
 | AI/ML Development | DSA + Java | GSSoC'25 |
-| UI/UX Design | Node.js | Open Source |
+| UI/UX Design | GoLang | Open Source |
 
 </div>
 
