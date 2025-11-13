@@ -47,10 +47,10 @@ const sneha = {
 <div align="center">
 
 ### 💎 Core Technologies
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,react&theme=dark" alt="Core Tech" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,react,next&theme=dark" alt="Core Tech" />
 
 ### 🛠️ Tools & Frameworks  
-<img src="https://skillicons.dev/icons?i=tailwind,threejs,mysql,android&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=tailwind,threejs,mysql,figma&theme=dark" alt="Tools" />
 
 ### 📊 Development Environment
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Environment" />
