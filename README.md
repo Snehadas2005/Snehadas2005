@@ -5,7 +5,7 @@ I'm an **AI/ML and Web Developer** based in India, dedicated to turning complex 
 ### 🔭 Current Focus
 *   **Exploring**: Deepening my expertise in AI/ML Development and UI/UX Design.
 *   **Learning**: Masterfully navigating DSA in Java and exploring GoLang.
-*   **Contributing**: Active contributor to Open Source and GSSoC'25.
+*   **Contributing**: Active contributor to Open Source.
 
 ### 🛠️ Tech Arsenal
 *   **Languages**: Java, JavaScript, Python, HTML/CSS
