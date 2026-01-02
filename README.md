@@ -1,36 +1,64 @@
-# Hi there, I'm Sneha Das 👋
+# Hi, I'm Sneha Das 👋
 
-I'm an **AI/ML and Web Developer** based in India, dedicated to turning complex problems into elegant digital solutions. I'm a firm believer that code has the power to change the world.
+🎓 **B.Tech CSE Student | AI/ML & Web Developer**  
+📍 India  
+🔍 Passionate about building intelligent, scalable, and user-centric digital solutions.
 
-### 🔭 Current Focus
-*   **Exploring**: Deepening my expertise in AI/ML Development and UI/UX Design.
-*   **Learning**: Masterfully navigating DSA in Java and exploring GoLang.
-*   **Contributing**: Active contributor to Open Source.
-
-### 🛠️ Tech Arsenal
-*   **Languages**: Java, JavaScript, Python, HTML/CSS
-*   **Frameworks/Libraries**: React, Next.js, Three.js, Tailwind CSS
-*   **Tools & Databases**: Git, GitHub, MySQL, Firebase, Figma, VS Code
-
-### 🏆 Achievements
-*   **GSSoC'24 Contributor**: Successfully contributed to various open-source projects.
-*   **Postman Challenge**: Completed the technical challenges during GSSoC.
+I work at the intersection of **Artificial Intelligence, Machine Learning, and Web Development**, with a long-term goal of deploying AI-driven systems into real-world web applications. I enjoy solving complex problems, contributing to open source, and continuously improving my engineering skills.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehadas2005&theme=neutral&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&theme=neutral&hide_border=true&layout=compact" height="150" alt="Top Languages" />
-</p>
+## 🚀 Current Focus
+- **AI/ML Development** – model building, experimentation, and deployment  
+- **Data Structures & Algorithms** – Java-focused interview preparation  
+- **Backend & Systems** – exploring GoLang and RESTful APIs
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-das-61302227a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/sn200sd12)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/sneha_2004)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sn2005eha26das@gmail.com)
+## 🛠️ Technical Skills
+
+### 💻 Languages
+- Java  
+- Python  
+- JavaScript  
+- HTML, CSS  
+
+### ⚙️ Frameworks & Libraries
+- React  
+- Next.js  
+- Tailwind CSS  
+- Three.js  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- MySQL  
+- Firebase  
+- Figma  
+- VS Code  
 
 ---
-*Finding answers to every WHY? and HOW?*
+
+## 📄 Resume
+📌 **[View My Resume](https://drive.google.com/file/d/1UjAQrccvFn1uZpEjvdAiVV7CwY8Z6644/view)**  
+*(Updated)*
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehadas2005&theme=dark&show_icons=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&theme=dark&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+- **LinkedIn**: [linkedin.com/in/sneha-das-61302227a](https://linkedin.com/in/sneha-das-61302227a)  
+- **LeetCode**: [leetcode.com/sn200sd12](https://leetcode.com/sn200sd12)  
+- **Dev.to**: [dev.to/sneha_2004](https://dev.to/sneha_2004)  
+- **Email**: [sn2005eha26das@gmail.com](mailto:sn2005eha26das@gmail.com)
+
+---
+
+✨ *Always curious about the “why” and the “how”.*  
+🤝 *Open to collaboration, internships, and impactful projects.*
