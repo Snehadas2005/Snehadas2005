@@ -34,7 +34,12 @@ I work at the intersection of **Artificial Intelligence, Machine Learning, and W
 - MySQL  
 - Firebase  
 - Figma  
-- VS Code  
+- VS Code
+
+### 🛠️ ML Tools & Models
+- TrOCR
+- OCR
+- FastAPI
 
 ---
 
