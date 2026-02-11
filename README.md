@@ -4,10 +4,9 @@
 📍 India  
 🔍 Passionate about building intelligent, scalable, and user-centric digital solutions.
 
-I work at the intersection of **Artificial Intelligence, Machine Learning, and Web Development**, with a long-term goal of deploying AI-driven systems into real-world web applications. I enjoy solving complex problems, contributing to open source, and continuously improving my engineering skills.
-
-Currently working as a Apertre 3.0 mentor for [CITY-STYLE](https://github.com/BDutta18/CITY-STYLE) and [College_daddy](https://github.com/mugenkyou/College_daddy).
-Open Source Contributor for [@kubeflow](https://github.com/kubeflow)
+- I work at the intersection of **Artificial Intelligence, Machine Learning, and Web Development**, with a long-term goal of deploying AI-driven systems into real-world web applications. I enjoy solving complex problems, contributing to open source, and continuously improving my engineering skills.
+- Currently working as an Apertre 3.0 mentor for [CITY-STYLE](https://github.com/BDutta18/CITY-STYLE) and [College_daddy](https://github.com/mugenkyou/College_daddy).
+- Open Source Contributor for [@kubeflow/trainer](https://github.com/kubeflow/trainer) and [@kubeflow/notebooks](https://github.com/kubeflow/notebooks)
 
 ---
 
