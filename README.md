@@ -44,7 +44,7 @@ I work at the intersection of **Artificial Intelligence, Machine Learning, and W
 ---
 
 ## 📄 Resume
-📌 **[View My Resume](https://drive.google.com/file/d/1UjAQrccvFn1uZpEjvdAiVV7CwY8Z6644/view)**  
+📌 **[View My Resume](https://drive.google.com/drive/u/0/folders/1337yC9ZymE0-9YFuMG7ZV6i7c2T-HjXA/view)**  
 *(Updated)*
 
 ---
