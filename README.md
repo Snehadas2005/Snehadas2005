@@ -51,14 +51,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehadas2005&theme=dark&show_icons=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehadas2005&theme=dark&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 - **LinkedIn**: [linkedin.com/in/sneha-das-61302227a](https://linkedin.com/in/sneha-das-61302227a)  
 - **LeetCode**: [leetcode.com/sn200sd12](https://leetcode.com/sn200sd12)  
