@@ -5,8 +5,8 @@
 🔍 Passionate about building intelligent, scalable, and user-centric digital solutions.
 
 - I work at the intersection of **Artificial Intelligence, Machine Learning, and Web Development**, with a long-term goal of deploying AI-driven systems into real-world web applications. I enjoy solving complex problems, contributing to open source, and continuously improving my engineering skills.
-- Currently working as Frontend Developer at [@workshopedge](https://github.com/workshopedge). 
-- Open Source Contributor for [@kubeflow/trainer](https://github.com/kubeflow/trainer) and [@kubeflow/notebooks](https://github.com/kubeflow/notebooks)
+- Currently working as Frontend Developer at [@workshopedge](https://github.com/workshopedge).
+- Open Source Contributor 
 
 ---
 
