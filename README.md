@@ -47,7 +47,7 @@
 ---
 
 ## 📄 Resume
-📌 **[View My Resume](https://drive.google.com/file/d/1emGM27FnHCM8wAKlm8g-e5iKBC_fOGd1/view?usp=sharing)**  
+📌 **[View My Resume](https://drive.google.com/file/d/1_HqS779V1Rw9PbizmAkaQ1VES6WTLh2P/view?usp=sharing)**  
 *(Updated)*
 
 ---
@@ -60,5 +60,5 @@
 
 ---
 
-✨ *Always curious about the “why” and the “how”.*  
+✨ *Always curious about the “why” and the “how”. A believer in trying to do better, even though the code just runs.*  
 🤝 *Open to collaboration, internships, and impactful projects.*
