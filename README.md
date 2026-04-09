@@ -13,7 +13,7 @@
 ## 🚀 Current Focus
 - **AI/ML Development** – model building, experimentation, and deployment  
 - **Data Structures & Algorithms** – Java-focused interview preparation  
-- **Backend & Systems** – exploring GoLang and RESTful APIs
+- **Backend & Systems** – exploring RESTful APIs, FastAPIs and ML based Python libraries 
 
 ---
 
@@ -23,7 +23,8 @@
 - Java  
 - Python  
 - JavaScript  
-- HTML, CSS  
+- HTML, CSS
+- GoLang
 
 ### ⚙️ Frameworks & Libraries
 - React  
