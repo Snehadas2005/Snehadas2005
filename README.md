@@ -9,7 +9,7 @@ I am a **Computer Science student** based in India, focusing on the intersection
 
 ### 💻 Technical Stack
 *   **Languages:** Java, Python, JavaScript, Go.
-*   **Web & OSS:** React, Next.js, Kubernetes, Kubeflow, FastAPI.
+*   **Web:** React, GSAP, FastAPI.
 *   **Tools:** Git, MySQL, Firebase, Figma, Docker.
 
 ### 📬 Connect with me
