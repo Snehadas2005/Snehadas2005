@@ -4,14 +4,13 @@ I am a **Computer Science student** based in India, focusing on the intersection
 
 ### 🛠️ What I'm working on
 - **Frontend Developer** at [@workshopedge](https://github.com/workshopedge).
-- **Focus Areas:** Open source contribution and CI/CD optimisation, and ML orchestration.
-- **Learning:** Deepening my knowledge in Java DSA and Python for ML.
+- **Open Source:** Contributing to **Kubeflow** and **Label Studio**, focusing on CI/CD optimization and ML orchestration.
+- **Learning:** Deepening my knowledge in Java DSA and GoLang.
 
 ### 💻 Technical Stack
 *   **Languages:** Java, Python, JavaScript, Go.
 *   **Web & OSS:** React, Next.js, Kubernetes, Kubeflow, FastAPI.
 *   **Tools:** Git, MySQL, Firebase, Figma, Docker.
-*   **OS:** Windows, Ubuntu
 
 ### 📬 Connect with me
 *   [LinkedIn](https://linkedin.com/in/sneha-das-61302227a) | [LeetCode](https://leetcode.com/sn200sd12) | [Dev.to](https://dev.to/sneha_2004)
