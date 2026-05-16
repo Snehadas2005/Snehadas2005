@@ -4,7 +4,7 @@ I am a **Computer Science student** based in India, focusing on the intersection
 
 ### 🛠️ What I'm working on
 - **Frontend Developer** at [@workshopedge](https://github.com/workshopedge).
-- **Open Source:** Contributing to **Kubeflow** and **Label Studio**, focusing on CI/CD optimization and ML orchestration.
+- **Open Source:** Contributing to **Kubeflow** and focusing on CI/CD optimization and ML orchestration.
 - **Learning:** Deepening my knowledge in Java DSA and GoLang.
 
 ### 💻 Technical Stack
