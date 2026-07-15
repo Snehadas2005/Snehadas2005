@@ -1,6 +1,6 @@
 # Hi, I'm Sneha Das 👋
 
-I am a **Computer Science student** based in India, focusing on the intersection of **AI/ML and Full-Stack Development**. I enjoy building functional tools and contributing to open-source projects.
+I am a **Computer Science student** based in India, focusing on the intersection of **MlOps and Web Development**. I enjoy building functional tools and contributing to open-source projects.
 
 ### 🛠️ What I'm working on
 - **Ex Frontend Developer** at [@workshopedge](https://github.com/workshopedge).
